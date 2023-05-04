@@ -1,0 +1,9 @@
+.header-section {
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 1200px) {
+  .header-section {
+    width: 960px;
+  }
+}
